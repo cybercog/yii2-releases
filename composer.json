@@ -1,6 +1,6 @@
 {
-  "name": "devbrom/yii2-releases-projects",
-  "description": "Releases projects manager module for Yii2",
+  "name": "devbrom/yii2-releases",
+  "description": "Releases project manager module for Yii2",
   "keywords": ["yii2", "yii2-releases-projects", "devbrom"],
   "type": "yii2-extension",
   "license": "MIT",
